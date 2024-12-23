@@ -83,6 +83,7 @@
 
 
 /*packages section start*/
+
 .packages .card{
   border-radius: 5px;
   border: none;
@@ -90,7 +91,6 @@
 }
 .packages  .card .card-img-top:hover{
   border-radius: 5px;
-  max-zoom: 5px;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
@@ -99,6 +99,7 @@
   background: transparent;
 }
 /*packages section end*/
+
 
 
 
